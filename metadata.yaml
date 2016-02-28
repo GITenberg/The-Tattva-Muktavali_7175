@@ -1,0 +1,34 @@
+_repo: The-Tattva-Muktavali_7175
+contributor:
+  translator:
+    agent_name: Cowell, Edward B. (Edward Byles)
+    aliases:
+    - Cowell, Edward Byles
+    - Cowell, E. B. (Edward Byles)
+    birthdate: 1826
+    deathdate: 1903
+    gutenberg_agent_id: '36797'
+    url: http://www.gutenberg.org/2009/agents/36797
+creator:
+  author:
+    agent_name: Gaudapurnanandacakravarti, 17th cent.
+    aliases:
+    - Chakravarti, Gauda Purnananda
+    - Chakravartin, Purnananda
+    gutenberg_agent_id: '2363'
+    url: http://www.gutenberg.org/2009/agents/2363
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hindu philosophy -- Early works to 1800'
+- !lcc 'B'
+- !lcsh 'Dvaita (Vedanta) -- Early works to 1800'
+title: The Tattva-Muktavali
+url: http://www.gutenberg.org/ebooks/7175
